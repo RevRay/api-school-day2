@@ -1,0 +1,22 @@
+{
+  "volume": {
+    "value": 13603,
+    "lastUpdated": 1576765767998
+  },
+  "symbolsTraded": {
+    "value": 22,
+    "lastUpdated": 1576765733823
+  },
+  "routedVolume": {
+    "value": 1257058,
+    "lastUpdated": 1576765768745
+  },
+  "notional": {
+    "value": 1433575.2,
+    "lastUpdated": 1576765767998
+  },
+  "marketShare": {
+    "value": 0.00022,
+    "lastUpdated": 1576765770188
+  }
+}
